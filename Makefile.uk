@@ -1,0 +1,3 @@
+$(eval $(call addlib,appcxxdataissue))
+
+APPCXXDATAISSUE_SRCS-y += $(APPCXXDATAISSUE_BASE)/main.cpp

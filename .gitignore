@@ -1,0 +1,9 @@
+/.config
+/.config.old
+/build/
+*~
+*gz
+*bz2
+*.o
+*.so
+*.a
